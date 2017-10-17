@@ -9,8 +9,7 @@ def build_root
 end
 
 def mirror
-  #"http://mirrors.jenkins-ci.org"
-  "http://mirror.xmission.com/jenkins"
+  "http://mirrors.jenkins.io"
 end
 
 def oneops
